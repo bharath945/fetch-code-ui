@@ -1,0 +1,31 @@
+.contactus {
+    background-color: #2a4455;
+    color: white;
+    padding: 5% 2%;
+}
+
+.contactus-para {
+    text-align: left;
+    font-size: 21px;
+}
+
+.form-control {
+    background-color: #395161 !important;
+    color: white !important;
+    border: 0px !important;
+}
+
+.send-button {
+    width: 150px;
+}
+
+.send-button-row {
+    display: flex;
+    justify-content: right;
+    padding-right: 2%;
+}
+
+.emialId > a {
+    text-decoration: none;
+    color: white;
+}

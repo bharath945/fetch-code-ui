@@ -1,0 +1,33 @@
+.contentBelowCardImg {
+    height: 400px;
+    width: 420px;
+    border-radius: 8px;
+}
+
+.contentbelowcard {
+    width: 420px;
+    background-color: #283f4f;
+    color: white;
+    border: 0px;
+    margin: 2%;
+}
+
+.contentbelowcard > h4,p {
+    text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+    .contentBelowCardImg {
+        height: 400px;
+        width: 350px;
+        border-radius: 8px;
+    }
+    
+    .contentbelowcard {
+        width: 350px;
+        background-color: #283f4f;
+        color: white;
+        border: 0px;
+        margin: 2%;
+    }
+}

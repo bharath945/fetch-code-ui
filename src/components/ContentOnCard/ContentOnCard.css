@@ -1,0 +1,21 @@
+.contentoncard {
+    background-repeat: no-repeat;
+    background-size: contain;
+    box-shadow: inset 0 0 0 2000px rgb(0, 0, 0, 0.8);
+    height: 420px;
+    width: 420px;
+    padding: 5% 2%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2%;
+}
+
+.content> h2 {
+    text-align: center !important;
+}
+
+.content > p {
+    text-align: center;
+}

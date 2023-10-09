@@ -1,0 +1,27 @@
+.bodyContent {
+    display: flex;
+    padding: 4% 15%;
+    background-color: #2a4455;
+    color:white;
+    font-size: 25px;
+    .row {
+        text-align: center;
+    }
+}
+
+.bodyContent > .row {
+    align-items: center;
+}
+
+@media screen and (max-width: 700px) {
+    .bodyContent {
+        display: flex;
+        padding: 4% 15%;
+        background-color: #2a4455;
+        color:white;
+        font-size: 15px;
+        .row {
+            text-align: center;
+        }
+    }
+}

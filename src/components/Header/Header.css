@@ -1,0 +1,13 @@
+.header {
+    display: flex !important;
+    background-color: #aabec1;
+    padding: 20px;
+}
+
+.subHeader:nth-child(2) {
+    margin-left: auto;
+}
+
+.fetchCodeLogo {
+    width: 160px;
+}
