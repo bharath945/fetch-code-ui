@@ -1,8 +1,17 @@
-.projects {
-    background-color: #283f4f;
-    padding: 5% 2%;
+.project-card {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     margin: auto;
+}
+.projects {
+    background-color: #283f4f;
+    padding: 5% 2%;
+}
+
+.projecthead {
+    text-align: center;
+    color: white;
+    font-size: 45px;
+    font-weight: 500;
 }

@@ -11,8 +11,19 @@
     padding: 20px;
 }
 
-.subHeader:nth-child(2) {
+.contacts {
+    display: flex;
+    justify-content: space-around;
     margin-left: auto;
+    width: 160px;
+}
+
+.instagram-icon {
+    color: #c506dd !important;
+}
+
+.whatsapp-icon{
+    color: green !important;
 }
 
 .fetchCodeLogo {

@@ -29,3 +29,22 @@
     text-decoration: none;
     color: white;
 }
+
+.contacts {
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+    width: 160px;
+}
+
+.instagram-icon {
+    color: #c506dd !important;
+}
+
+.whatsapp-icon{
+    color: green !important;
+}
+
+.fetchCodeLogo {
+    width: 160px;
+}

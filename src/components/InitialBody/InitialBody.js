@@ -9,7 +9,7 @@ export default function InitalBody() {
                 <Col sm={6}>
                     <Row className='main-title'>Transform Your Business with Software</Row>
                     <Row className='sub-title mt-4'>Get ahead of the competition with FETCHCODE's cutting-edge technology solutions.</Row>
-                    <Button className='learn-more-button mt-3' variant="light">Learn More</Button>
+                    <a href='#projectsSection'><Button className='learn-more-button mt-3' variant="light">Learn More</Button></a>
                 </Col>
                 <Col>
                 </Col>
