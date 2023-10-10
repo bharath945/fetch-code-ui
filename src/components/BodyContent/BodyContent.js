@@ -1,7 +1,8 @@
-import {Row} from 'react-bootstrap';
+import { Row } from 'react-bootstrap';
 import './BodyContent.css';
+import Fade from 'react-reveal/Fade';
 
-export default function BodyContent () {
+export default function BodyContent() {
     return (
         <Row className='bodyContent'>
             <Row className='firstPara'>
