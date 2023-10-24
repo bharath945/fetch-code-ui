@@ -1,0 +1,13 @@
+.jobs {
+    margin-top: 70px;
+    padding: 2%;
+    background-color: #f6f6f9;
+    align-items: flex-start;
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.jobcard {
+    margin: 1%;
+}
